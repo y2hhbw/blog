@@ -13,7 +13,7 @@ A free blog built with Hugo and deployed on Cloudflare Pages.
 
 ### Prerequisites
 
-- Hugo Extended (v0.139.3 or higher)
+- Hugo Extended (v0.146.0 or higher)
 - Git
 
 ### Running Locally
@@ -51,7 +51,7 @@ git push -u origin main
    - **Build command**: `hugo --minify`
    - **Build output directory**: `public`
    - **Environment variables**:
-     - `HUGO_VERSION` = `0.139.3` (or your Hugo version)
+     - `HUGO_VERSION` = `0.146.0` (or your Hugo version)
 
 5. Click **Save and Deploy**
 
