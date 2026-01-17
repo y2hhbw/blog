@@ -1,0 +1,4 @@
+baseURL = 'https://y2hhbw.pages.dev/'
+languageCode = 'en-us'
+title = 'Y2hhbw Blog'
+theme = 'PaperMod'
