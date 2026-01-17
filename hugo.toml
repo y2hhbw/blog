@@ -8,8 +8,8 @@ theme = 'PaperMod'
 
 [params]
   env = "production"
-  description = "Welcome to Y2hhbw's personal blog - sharing thoughts on technology, coding, and life"
-  author = "Y2hhbw"
+  description = "welcome to y2hhbw's personal blog - sharing thoughts on technology, coding, and life"
+  author = "y2hhbw"
 
   # Theme settings
   defaultTheme = "auto"
