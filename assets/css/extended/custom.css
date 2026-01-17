@@ -1,0 +1,40 @@
+/* Custom styles for Y2hhbw Blog */
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Enhanced typography */
+.post-content {
+  line-height: 1.8;
+  font-size: 1.05rem;
+}
+
+/* Beautiful code blocks */
+.highlight {
+  border-radius: 8px;
+  margin: 1.5rem 0;
+}
+
+/* Hover effects for post entries */
+.post-entry {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-entry:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Enhanced buttons */
+.post-content a {
+  text-decoration: underline;
+  text-decoration-color: var(--primary);
+  text-underline-offset: 3px;
+  transition: all 0.2s ease;
+}
+
+.post-content a:hover {
+  text-decoration-thickness: 2px;
+}
