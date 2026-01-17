@@ -1,26 +1,26 @@
 ---
-title: "About"
+title: "about"
 url: "/about/"
-summary: "Learn more about Y2hhbw and this blog"
+summary: "learn more about y2hhbw and this blog"
 ---
 
-## About Me
+## about me
 
-Hi there! I'm Y2hhbw, a passionate developer and tech enthusiast. Welcome to my personal blog where I share my thoughts, experiences, and learnings in the world of technology.
+hi there! i'm y2hhbw, a passionate developer and tech enthusiast. welcome to my personal blog where i share my thoughts, experiences, and learnings in the world of technology.
 
-## What You'll Find Here
+## what you'll find here
 
-- **Technical Articles**: Deep dives into programming, web development, and software engineering
-- **Tutorials**: Step-by-step guides to help you learn new technologies
-- **Personal Insights**: My thoughts on tech trends, tools, and best practices
-- **Project Showcases**: Interesting projects I'm working on
+- **technical articles**: deep dives into programming, web development, and software engineering
+- **tutorials**: step-by-step guides to help you learn new technologies
+- **personal insights**: my thoughts on tech trends, tools, and best practices
+- **project showcases**: interesting projects i'm working on
 
-## Get in Touch
+## get in touch
 
-Feel free to reach out to me through:
+feel free to reach out to me through:
 
-- GitHub: [github.com/y2hhbw](https://github.com/y2hhbw)
-- Email: your.email@example.com
+- github: [github.com/y2hhbw](https://github.com/y2hhbw)
+- email: your.email@example.com
 
-Thanks for visiting!
+thanks for visiting!
 

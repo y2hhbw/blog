@@ -1,6 +1,6 @@
 baseURL = 'https://blog.y2hhbw.xx.kg/'
 languageCode = 'en-us'
-title = 'Y2hhbw Blog'
+title = 'y2hhbw blog'
 theme = 'PaperMod'
 
 [pagination]
@@ -32,8 +32,8 @@ theme = 'PaperMod'
 
   # Home page settings
   [params.homeInfoParams]
-    Title = "Welcome to Y2hhbw's Blog"
-    Content = "A place where I share my thoughts on technology, programming, and life. Explore my posts and feel free to connect!"
+    Title = "welcome to y2hhbw's blog"
+    Content = "a place where i share my thoughts on technology, programming, and life. explore my posts and feel free to connect!"
 
   # Profile mode (alternative to home info)
   [params.profileMode]
@@ -65,37 +65,37 @@ theme = 'PaperMod'
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "home"
     url = "/"
     weight = 10
 
   [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "posts"
     url = "/posts/"
     weight = 20
 
   [[menu.main]]
     identifier = "archives"
-    name = "Archives"
+    name = "archives"
     url = "/archives/"
     weight = 30
 
   [[menu.main]]
     identifier = "tags"
-    name = "Tags"
+    name = "tags"
     url = "/tags/"
     weight = 40
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "about"
     url = "/about/"
     weight = 50
 
   [[menu.main]]
     identifier = "search"
-    name = "Search"
+    name = "search"
     url = "/search/"
     weight = 60
 

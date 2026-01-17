@@ -1,6 +1,6 @@
 ---
-title: "Search"
+title: "search"
 layout: "search"
 url: "/search/"
-summary: "Search for posts"
+summary: "search for posts"
 ---

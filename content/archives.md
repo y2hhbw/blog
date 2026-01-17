@@ -1,6 +1,6 @@
 ---
-title: "Archives"
+title: "archives"
 layout: "archives"
 url: "/archives/"
-summary: "Browse all posts by date"
+summary: "browse all posts by date"
 ---
